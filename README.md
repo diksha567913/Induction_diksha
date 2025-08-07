@@ -6,7 +6,7 @@
 
 Our first day began on a spiritual note as we visited the **college Gurudwara Sahib**, where we listened to a serene **Shabad Kirtan**. The shape of Gurudwara Sahib of GNDEC, is similar to "ship". We all travel in this ship for almost one hour. The peaceful environment helped calm our nerves and offered a meaningful start to our academic journey.
 
-# Auditorium 
+## Auditorium 
 
 After the visit, welcome kit distribution by the registeration team and then we gathered in the **college auditorium**. Approximately **20 minutes later**, the **Induction Program officially commenced**.
 
@@ -43,7 +43,7 @@ The day proceeded with an engaging session conducted by the **Causmic Club**, fo
 
 The highlights of the day was the address by the Chief Guest, **Sardar Gurcharan Singh Grewal**, member of Shiromani Gurdwara Parbandhak Committee (SGPC) and a respected member of Nankana Sahib Education Trust. His motivational words encouraged students to stay grounded in values while aspiring for excellence in their academic journey. 
 
-# Session by Dr. Jaswinder Singh 
+## Session by Dr. Jaswinder Singh 
 
 **Dr. Jaswinder Singh**, a Siksharatan Awardee, who captivated the audience with live experiments and innovative approaches to teaching and learning. His interactive method of presentation brought an engaging and joyful learning experience for the students, leaving a lasting impression. 
 
