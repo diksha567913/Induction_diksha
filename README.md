@@ -28,3 +28,7 @@ Her words were inspiring and gave us a strong perspective on what lies ahead in 
 - **Ravinder Garg** (Chief Guest Eng. at municipal corporate in ludhiana) motivate all the students to work hark, stay disciplined and believe in themselves. 
 
 *“The journey of a thousand miles begins with a single step. Today, I took that step at GNE College.”*
+
+# Day 2 
+
+# 
