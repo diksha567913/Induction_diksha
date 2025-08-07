@@ -29,6 +29,21 @@ Her words were inspiring and gave us a strong perspective on what lies ahead in 
 
 *“The journey of a thousand miles begins with a single step. Today, I took that step at GNE College.”*
 
-# Day 2 
+# Day 2
 
-# 
+The second day of the induction program commenced with English and Mathematics proficiency tests, aimed at evaluating students' foundational skills in these subjects.
+
+Following a short break, all students assembled in the auditorium for an expert lecture delivered by **Dr. Arashdeep Singh**, on: 
+"Food: A Pivotal Role in a Student's Overall Wellness."
+**Dr. Arashdeep Singh** emphasized the critical impact of nutrition on both physical health and academic performance, highlighting how balanced dietary habits contribute significantly to student well-being and success.
+
+The day proceeded with an engaging session conducted by the **Causmic Club**, followed by the official launch of the induction activities. The event concluded on a warm and welcoming note as senior students extended their greetings and shared their experiences, making the newcomers feel at home.
+
+# Day 3 
+
+The highlights of the day was the address by the Chief Guest, **Sardar Gurcharan Singh Grewal**, member of Shiromani Gurdwara Parbandhak Committee (SGPC) and a respected member of Nankana Sahib Education Trust. His motivational words encouraged students to stay grounded in values while aspiring for excellence in their academic journey. 
+
+# Session by Dr. Jaswinder Singh 
+
+**Dr. Jaswinder Singh**, a Siksharatan Awardee, who captivated the audience with live experiments and innovative approaches to teaching and learning. His interactive method of presentation brought an engaging and joyful learning experience for the students, leaving a lasting impression. 
+
