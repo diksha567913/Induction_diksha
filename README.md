@@ -47,3 +47,6 @@ The highlights of the day was the address by the Chief Guest, **Sardar Gurcharan
 
 **Dr. Jaswinder Singh**, a Siksharatan Awardee, who captivated the audience with live experiments and innovative approaches to teaching and learning. His interactive method of presentation brought an engaging and joyful learning experience for the students, leaving a lasting impression. 
 
+# Universal Human Values: A Path to Inner Peace and Purpose 
+
+This session was delivered by **Dr. Priyadarshini**(Mam), an esteemed expert in Universal Human Values.She spoke about the critical role of ethics and Values in the field of engineering, education and professional practice. Her session helped the students understand the importance of empathy, responsibility, and integrity in shaping a meaningful career and life. 
