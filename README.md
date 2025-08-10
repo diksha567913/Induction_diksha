@@ -63,10 +63,26 @@ After the allotted time, students were invited to present their answers individu
 
 Following this, we attended a Chemistry lecture by **Prof. Karan Bhalla**(sir), who provided a detailed overview of the syllabus while delivering the concepts with clarity and enthusiasm.
 
-After a short break, we proceeded to the auditorium for a session on *Universal Human Values* by **Dr.Priyadarshini**(Mam). She emphasized the significance of time management, the importance of cultivating the right understanding in life, and the need to prioritize our parents over materialistic pursuits. She posed thought-provoking questions such as “Does money truly bring happiness?” and assigned us home-based reflective tasks.
+After a short break, we proceeded to the auditorium for a session on *Universal Human Values* by **Dr.Priyadarshini**(Mam). She emphasized the significance of time management, the importance of cultivating the right understanding in life, and the need to prioritize our parents over materialistic pursuits. She posed thought-provoking questions such as “Does money truly bring happiness?” and assigned us home-based reflective tasks. 
 
-Subsequently, the Causmic Club hosted an interactive segment, followed by a presentation from a representative of the Satya Scholarship program. They encouraged financially needy students to register for the scholarship. 
+## Satya Scholarship Session
 
+Following this, a faculty member delivered an informative session on the **Satya Scholarship** —a financial aid initiative designed to support students in need, particularly those from single-parent families. He explained the eligibility criteria, benefits, and registration process in detail.
 
-The day concluded with valuable guidance from our seniors, who assisted us in navigating the GitHub repository creation process to document our induction experiences.
+Subsequently, **Dr. Harpreet Kaur Grewal** (HOD)mam, guided us step-by-step through the correct procedure for online registration, ensuring that all eligible students could apply without difficulty.
+
+## Git & GitHub Session
+
+In the concluding segment of the day, our seniors introduced us to Git and GitHub, explaining their significance in version control and collaborative software development. They provided a step-by-step demonstration on:
+
+-Creating a GitHub account.
+
+-Understanding the purpose of repositories.
+
+-Creating a new repository. 
+
+Under their guidance, each of us successfully created our own GitHub accounts and initialized our first repositories to document our Induction Program experiences. 
+
+# Day 5 
+
 
