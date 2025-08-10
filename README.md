@@ -179,6 +179,11 @@ After a short break, the day continued with a Chemistry lecture by **Prof. Karan
 
 - **The EDTA ligand**: its molecular structure and various applications.
 
+## Mathematics Lecture – Prof. Sukhminder Singh
+
+In addition, **Prof. Sukhminder Singh**(sir), conducted a detailed lecture on **differentiation and integration**. He thoroughly explained various important formulas and emphasized their applications. Sir instructed us to write down all these formulas carefully and revised them comprehensively to ensure a clear understanding among all students.
+
 The day concluded after these informative sessions, enriching our understanding of both administrative processes and core scientific concepts.
 
+# Day 8 
 
