@@ -122,3 +122,13 @@ After covering these tools, the seniors introduced basic **C++ programming conce
 
 The day concluded with an interactive Q&A session, ensuring that all students had a clear understanding of these foundational programming concepts.
 
+## BEEE & Chemistry Lectures
+
+Following the programming session, we attended a Basic Electrical and Electronics Engineering (BEEE) lecture delivered by **Prof. Simranjit Kaur** (ECE Department). She began by interacting with the students, asking each of us to introduce ourselves by name and share the school from which we had graduated. She then posed a few subject-related questions, such as the definition of electricity and its applications in daily life.
+
+Next, we had a Chemistry lecture by **Prof. Komalpreet Kaur**(mam), whose friendly and approachable teaching style created a comfortable learning environment. She asked revision questions from previous topics, along with some fundamental questions from the 12th-grade syllabus. Like in the previous lecture, she engaged each student by asking their name, place of origin, and school background.
+
+The day concluded with these interactive sessions, leaving us better connected with our faculty and peers while also reinforcing our foundational knowledge in both BEEE and Chemistry.
+
+# Day 6
+
