@@ -157,3 +157,28 @@ The day wrapped up with a sense of inspiration and motivation, thanks to the div
 
 # Day 7 
 
+The seventh day of the induction program began with all students assembling in the auditorium. We started the day by reciting the **"Path"**, setting a calm and focused atmosphere.
+
+The first lecture was delivered by **Dr. Amit Kamra**(sir), (Incharge - DMC), who shared insights about being the pioneer in creating GNDEC’s official Facebook page. He also took a moment to appreciate his students, notably **Navjot Singh**, whose impressive video editing work was showcased on the screen.
+
+Next, **Dr. Parminder Singh**(sir), (Dean – Student Welfare) addressed us, imparting numerous valuable lessons related to student life and welfare.
+
+Following this, **Dr. Randhir Singh**(sir) gave a lecture on the “Conduct of Examinations”, elaborating on the college’s evaluation system, marking scheme, and examination procedures.
+
+After a short break, the day continued with a Chemistry lecture by **Prof. Karan Bhalla**(sir). He provided an overview of the syllabus and explained key topics including:
+
+- The role of impurities in water hardness.
+
+- Differentiating between hard water and soft water, with emphasis that tap water is typically hard.
+
+- **Chemical formulas** for important compounds such as carbonates, bicarbonates, chlorides, sulphates, and nitrates.
+
+- Concepts of temporary and permanent hardness.
+
+- Reverse osmosis and diffusion processes.
+
+- **The EDTA ligand**: its molecular structure and various applications.
+
+The day concluded after these informative sessions, enriching our understanding of both administrative processes and core scientific concepts.
+
+
