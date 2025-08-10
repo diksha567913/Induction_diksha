@@ -85,4 +85,41 @@ Under their guidance, each of us successfully created our own GitHub accounts an
 
 # Day 5 
 
+The fifth day of the induction program featured an engaging **Peer-to-Peer** (P2P) learning session conducted by our seniors. The session focused on introducing us to the fundamentals of the **C++ programming language**.
+
+They began by explaining the three primary tools used to represent a program:
+
+#### 1. Algorithm – A step-by-step procedure to solve a specific problem. The seniors outlined its key steps and structure.
+
+#### 2. Pseudocode – A high-level, plain-language description of a program's logic, written in a format resembling code.
+
+#### 3. Flowchart – A diagrammatic representation of a program’s logic using symbols and arrows to illustrate the process flow.
+They highlighted that, among these tools, flowcharts are the most commonly used in practice.
+
+After covering these tools, the seniors introduced basic **C++ programming concepts**, including:
+
+**Common Data Types**: int, float, char, bool, string.
+
+**The cout statement**: Used for output in C++ programs.
+
+### Variable Naming Rules:
+
+- Must begin with a letter or underscore (_).
+
+- Cannot start with numbers.
+
+- Cannot contain spaces or special symbols.
+
+### Difference between Declaration and Initialization:
+
+- Declaration specifies the variable’s name and type.
+
+- Initialization assigns a value to the variable at the time of declaration or later.
+### Operators:
+
+<< – Insertion operator.
+
+>> – Extraction operator.
+
+The day concluded with an interactive Q&A session, ensuring that all students had a clear understanding of these foundational programming concepts.
 
