@@ -53,4 +53,20 @@ This session was delivered by **Dr. Priyadarshini**(Mam), an esteemed expert in 
 
 # Day 4
 
+The fourth day of the Induction Program commenced with an English Communication session conducted by **Prof. Aastik Sharma**(Sir) presented us with a set of reflective questions, granting 15 minutes to respond. These included:
+Why did you choose GNE College?
+Why did you opt for the IT stream?
+Describe yourself.
+What are your strengths and weaknesses?
+
+After the allotted time, students were invited to present their answers individually. Everyone responded enthusiastically, showcasing both confidence and clarity. **Prof.Aastik Sharma**(sir) then introduced himself, and his engaging teaching style left a lasting impression.
+
+Following this, we attended a Chemistry lecture by **Prof. Karan Bhalla**(sir), who provided a detailed overview of the syllabus while delivering the concepts with clarity and enthusiasm.
+
+After a short break, we proceeded to the auditorium for a session on *Universal Human Values* by **Dr.Priyadarshini**(Mam). She emphasized the significance of time management, the importance of cultivating the right understanding in life, and the need to prioritize our parents over materialistic pursuits. She posed thought-provoking questions such as “Does money truly bring happiness?” and assigned us home-based reflective tasks.
+
+Subsequently, the Causmic Club hosted an interactive segment, followed by a presentation from a representative of the Satya Scholarship program. They encouraged financially needy students to register for the scholarship. 
+
+
+The day concluded with valuable guidance from our seniors, who assisted us in navigating the GitHub repository creation process to document our induction experiences.
 
