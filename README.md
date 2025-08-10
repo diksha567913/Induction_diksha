@@ -89,11 +89,11 @@ The fifth day of the induction program featured an engaging **Peer-to-Peer** (P2
 
 They began by explaining the three primary tools used to represent a program:
 
-#### 1. Algorithm – A step-by-step procedure to solve a specific problem. The seniors outlined its key steps and structure.
+1. **Algorithm** – A step-by-step procedure to solve a specific problem. The seniors outlined its key steps and structure.
 
-#### 2. Pseudocode – A high-level, plain-language description of a program's logic, written in a format resembling code.
+ 2. **Pseudocode** – A high-level, plain-language description of a program's logic, written in a format resembling code.
 
-#### 3. Flowchart – A diagrammatic representation of a program’s logic using symbols and arrows to illustrate the process flow.
+ 3. **Flowchart** – A diagrammatic representation of a program’s logic using symbols and arrows to illustrate the process flow.
 They highlighted that, among these tools, flowcharts are the most commonly used in practice.
 
 After covering these tools, the seniors introduced basic **C++ programming concepts**, including:
