@@ -119,7 +119,7 @@ After covering these tools, the seniors introduced basic **C++ programming conce
 
 << – Insertion operator.
 
->> – Extraction operator.
+ >> – Extraction operator.
 
 The day concluded with an interactive Q&A session, ensuring that all students had a clear understanding of these foundational programming concepts.
 
