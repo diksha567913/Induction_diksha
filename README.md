@@ -132,3 +132,28 @@ The day concluded with these interactive sessions, leaving us better connected w
 
 # Day 6
 
+The sixth day of the induction program began with a Mathematics lecture by **Prof. Sukhminder Singh**(Sir),  introduced us to the official websites of GNDEC’s Applied Sciences Department and demonstrated how to:
+
+- Access the college syllabus online.
+
+- Create graphs using mobile applications.
+
+The next session was conducted by our seniors on C++ programming. They explained the concepts of:
+
+- **Conditional Statements** – enabling decision-making in programs.
+
+- **Looping Statements** – allowing repetitive execution of code.
+They also demonstrated how to write a program to display the first ten natural numbers.
+
+After a short break, we gathered in the auditorium for a series of lectures:
+
+1. **Mr. Arvind Dhingra** – Spoke about the history, values, and opportunities at GNDEC.
+
+2. **Mr. Jasvir Singh** (District Resource Person – STEM) – Delivered an insightful talk on science, technology, engineering, and mathematics in modern education.
+
+3. **Dr. Lakhvir Singh Khana** (Incharge – CML) – Concluded with valuable lessons on learning methodologies and personal growth.
+
+The day wrapped up with a sense of inspiration and motivation, thanks to the diverse and enriching sessions.
+
+# Day 7 
+
