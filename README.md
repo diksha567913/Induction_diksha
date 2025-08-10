@@ -117,9 +117,8 @@ After covering these tools, the seniors introduced basic **C++ programming conce
 - Initialization assigns a value to the variable at the time of declaration or later.
 ### Operators:
 
-<< – Insertion operator.
-
- >> – Extraction operator.
+- Insertion operator- <<
+- Extraction operator- >>
 
 The day concluded with an interactive Q&A session, ensuring that all students had a clear understanding of these foundational programming concepts.
 
