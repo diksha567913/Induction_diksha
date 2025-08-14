@@ -187,3 +187,4 @@ The day concluded after these informative sessions, enriching our understanding 
 
 # Day 8 
 
+The eight day of Induction Program began with 
