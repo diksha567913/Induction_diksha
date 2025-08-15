@@ -75,11 +75,11 @@ Subsequently, **Dr. Harpreet Kaur Grewal** (HOD)mam, guided us step-by-step thro
 
 In the concluding segment of the day, our seniors introduced us to Git and GitHub, explaining their significance in version control and collaborative software development. They provided a step-by-step demonstration on:
 
--Creating a GitHub account.
+- Creating a GitHub account.
 
--Understanding the purpose of repositories.
+- Understanding the purpose of repositories.
 
--Creating a new repository. 
+- Creating a new repository. 
 
 Under their guidance, each of us successfully created our own GitHub accounts and initialized our first repositories to document our Induction Program experiences. 
 
@@ -185,6 +185,56 @@ In addition, **Prof. Sukhminder Singh**(sir), conducted a detailed lecture on **
 
 The day concluded after these informative sessions, enriching our understanding of both administrative processes and core scientific concepts.
 
-# Day 8 
+# Day 8
 
-The eight day of Induction Program began with 
+## Final Day Report
+
+The concluding day of the induction program commenced with a highly insightful and academically enriching lecture on Basic Electrical and Electronics Engineering (BEEE), delivered by **Prof. Simranjit Kaur**(Mam). The session was meticulously structured to provide both theoretical understanding and practical problem-solving skills, ensuring that every student could grasp the fundamental concepts of electrical engineering with clarity.
+
+**Prof. Simranjit Kaur**(Mam) began the lecture by revisiting and thoroughly explaining foundational concepts, each supported by precise definitions, standard formulas, and appropriate SI units. The topics addressed included:
+
+1. **Electric Potential** -  
+*Definition*: The amount of work done to move a unit positive charge from infinity to a specific point in an electric field.
+*Unit*: Volt (V)
+
+2. **Potential Difference** –
+*Definition*: The work done to move a unit positive charge between two points in an electric field.
+*Unit*: Volt (V)
+
+3. **Resistance** –
+*Definition*: The opposition offered by a material to the flow of electric current.
+*Unit*: Ohm (Ω)
+
+4. **Conductance** –
+*Definition*: The ability of a material to allow electric current to pass through it.
+*Unit*: Siemens (S)
+
+5. **Electromotive Force** (EMF) –
+*Definition*: The energy supplied by a source per unit charge, often referred to as the driving force of an electric circuit.
+
+6. **Ohm’s Law** –
+**Formula**: V=I*R 
+ Where:
+ → Voltage (Volts)
+ → Current (Amperes)
+ → Resistance (Ohms)
+
+**Limitations of Ohm’s Law**: **Prof.Simranjit Kaur**(Mam) elaborated on scenarios where Ohm’s law fails to apply, such as in non-linear materials, semiconductor devices, and situations involving temperature variations.
+
+7. **Series and Parallel Circuits** –
+
+**Series Connection**: Components connected end-to-end, sharing the same current.
+
+**Parallel Connection**: Components connected across the same voltage source, sharing voltage but dividing current. 
+
+### Numerical Problem-Solving Session
+
+After delivering the theoretical concepts, **Prof. Simranjit Kaur** assigned a set of numerical problems related to the topics covered. The problems ranged from simple Ohm’s Law applications to more complex calculations involving power, energy, and resistivity.
+
+She encouraged students to solve them individually, later reviewing the solutions collectively. Those who faced difficulties were given step-by-step guidance, with alternative methods explained for better comprehension. This interactive approach ensured that even complex calculations became approachable and easy to understand.
+
+The final day of the induction program concluded on a highly productive note.
+The knowledge gained today will undoubtedly serve as a stepping stone for more advanced electrical engineering topics in the upcoming academic journey.
+
+# Conclusion : 
+
